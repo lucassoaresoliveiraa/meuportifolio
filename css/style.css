@@ -237,6 +237,8 @@ a:hover{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 1px;
     color: rgb(255, 255, 255);
+    background-color: #101f747e;
+    background-size: auto;
 }
 /*.card-wrapper {
     text-align: center;
